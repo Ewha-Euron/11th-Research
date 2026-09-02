@@ -1,7 +1,7 @@
 # 📁ARCHIVE - 2026/09/08
 
 ## 💚발제 논문💚  
-- [CV] [Deep residual learning for image recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [ResNet] [Deep residual learning for image recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 ---
 
 ## 💚발표 자료💚
