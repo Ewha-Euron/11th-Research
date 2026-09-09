@@ -5,7 +5,7 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week1_ResNet]()
+- [📚Week1_ResNet](./Euron_Research_1주차.pdf)
 ---
 
 ## 💚우수 과제💚
