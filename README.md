@@ -10,5 +10,5 @@
 
 ## 💚우수 과제💚
 #### 1주차 예습과제
-- [🌟Week1_예습_님]()
-- [🌟Week1_예습_]()
+- 🌟 [Week1_예습_유다연](https://github.com/Ewha-Euron/11th-Research/pull/5)
+- 🌟 [Week1_예습_신은서](https://github.com/Ewha-Euron/11th-Research/pull/3)
