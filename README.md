@@ -5,7 +5,7 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week2_]()
+- [📚Week2_Transformer](./Euron_Research_2주차.pdf)
 ---
 
 ## 💚우수 과제💚
