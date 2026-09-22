@@ -10,7 +10,7 @@
 
 ## 💚우수 과제💚
 #### 1주차 복습과제
-- [🌟Week1_복습_님]()
+- [🌟Week1_복습_김태희님](https://github.com/Ewha-Euron/11th-Research/pull/21)
 
 #### 2주차 예습과제
-- [🌟Week2_예습_님]()
+- [🌟Week2_예습_김재희님](https://github.com/Ewha-Euron/11th-Research/pull/9)
