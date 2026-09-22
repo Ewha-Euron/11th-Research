@@ -1,7 +1,7 @@
 # 📁ARCHIVE - 2026/09/29
 
 ## 💚발제 논문💚  
--  [DQN] [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602)
+-  [ViT] [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929)
 ---
 
 ## 💚발표 자료💚
