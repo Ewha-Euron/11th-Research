@@ -5,7 +5,7 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week4]()
+- [📚Week4_ViT](./Euron_Research_4주차.pdf)
 ---
 
 ## 💚우수 과제💚
