@@ -2,6 +2,8 @@
 
 ## 💚발제 논문💚  
 -  [] []()
+-  [RLHF] [Training language models to follow instructions with human feedback]
+-  [CLIP] [Learning Transferable Visual Models From Natural Language Supervision]
 ---
 
 ## 💚발표 자료💚
