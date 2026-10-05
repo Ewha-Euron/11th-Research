@@ -6,7 +6,8 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week5]()
+- [📚Week5_InstructGPT](./Euron_Research_5주차_InstructGPT.pdf)
+- [📚Week5_CLIP](./Euron_Research_5주차_CLIP.pdf)
 ---
 
 ## 💚우수 과제💚
