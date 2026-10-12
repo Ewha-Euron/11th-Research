@@ -6,7 +6,8 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week6]()
+- [📚Week6_LoRA](./Euron_Research_6주차_LoRA.pdf)
+- [📚Week6_YOLO](./Euron_Research_6주차_YOLO.pdf)
 ---
 
 ## 💚우수 과제💚
