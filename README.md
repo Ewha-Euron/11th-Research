@@ -6,7 +6,8 @@
 ---
 
 ## 💚발표 자료💚
-- [📚Week9]()
+- [📚Week9_Reasoning_Structure](./Euron_Research_9주차_Reasoning_Structure.pdf)
+- [📚Week9_BERT](./Euron_Research_9주차_BERT.pdf)
 ---
 
 ## 💚우수 과제💚
