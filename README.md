@@ -5,12 +5,9 @@
 - [YOLO] [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)
 ---
 
-## 💚발표 자료💚
-- [📚Week6_LoRA](./Euron_Research_6주차_LoRA.pdf)
-- [📚Week6_YOLO](./Euron_Research_6주차_YOLO.pdf)
----
-
 ## 💚우수 과제💚
 #### 6주차 예습과제
-- ()
-- ()
+- [🌟Week6_예습_유다연님](https://github.com/Ewha-Euron/11th-Research/pull/76)
+
+#### 5주차 복습과제
+- [🌟Week5_복습_김예나님](https://github.com/Ewha-Euron/11th-Research/pull/73)
