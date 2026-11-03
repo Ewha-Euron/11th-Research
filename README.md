@@ -12,5 +12,7 @@
 
 ## 💚우수 과제💚
 #### 5주차 예습과제
-- ()
-- ()
+- [🌟Week5_예습_김태희님](https://github.com/Ewha-Euron/11th-Research/pull/52)
+
+#### 4주차 복습과제
+- [🌟Week4_복습_손현경님](https://github.com/Ewha-Euron/11th-Research/pull/55)
