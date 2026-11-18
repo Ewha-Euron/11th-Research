@@ -1,7 +1,8 @@
 # 📁ARCHIVE - 2026/11/24
 
 ## 💚발제 논문💚  
--  [DQN] [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602)
+- [RAG] [Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach](https://aclanthology.org/2024.emnlp-industry.66.pdf)
+- [LLaVA] [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485)
 ---
 
 ## 💚발표 자료💚
@@ -12,4 +13,3 @@
 #### 12주차 예습과제
 - ()
 - ()
-
